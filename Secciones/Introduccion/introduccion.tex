@@ -1,11 +1,35 @@
+\section{Introducción}
 
-\subsection{Contexto}
-En la era digital, la generación de Modelos de Terreno Digital (MTD) es fundamental para diversos campos, incluyendo proyectos catastrales, simulaciones fluviales y gemelos digitales. La precisión de estos modelos depende en gran medida de la calidad de los datos de entrada, que suelen provenir de nubes de puntos obtenidas mediante tecnologías como LIDAR. Sin embargo, cuando la densidad de estos puntos es muy alta, los algoritmos tradicionales pueden perder fiabilidad, afectando la precisión del MTD resultante.
+La topografía, también conocida como geomática, es la disciplina que abarca todos los métodos para medir y recopilar información física acerca de la Tierra y nuestro medio ambiente, procesar esa información y difundir los productos resultantes a una amplia variedad de usuarios \cite{Topografia, Topografia-def2}.
+%https://books.google.com.mx/bookshl=es&lr=&id=g7F1EAAAQBAJ&oi=fnd&pg=PR1&dq=topografia&ots=jSuM1Qb3k9&sig=LGoRh5g8JGXI3IsmF_PPiBO_Md8#v=onepage&q&f=false
+Su importancia radica en sus múltiples aplicaciones en campos como la geomorfología, la edafología, la climatología, la botánica, la zoología y la ecología, entre otros. Estas áreas comúnmente consideran la altitud, la pendiente del terreno y la orientación de las laderas como variables clave para entender numerosos fenómenos \cite{MDT-aplicacion}.
+\espacio
 
+Con la evolución tecnológica, las ciencias han incorporado herramientas cada vez mas avanzadas, elevando el alcance y profundidad de sus ramas. En el caso de la topografia, se crearon los Sistemas de Información Geográfica (SIG). Los SIG utilizan conceptos de localización como base para estructurar sistemas de información, y hoy en día son esenciales para tareas como la localización directa y condicionada, análisis de tendencias, planificación de rutas y creación de modelos \cite{GIS-definicion}. Dentro de estos modelos, destacan el Modelo Digital de Superficie (MDS) y el Modelo Digital del Terreno (MDT). Aunque ambos buscan representar la elevación del terreno en 3D, el MDT incluye elementos como edificaciones y vegetación, lo que lo hace más completo y con mayor potencial de aplicación \cite{MDT-effects}.
+\espacio
 
-\subsection{Antecedentes}
-Diversos algoritmos han sido desarrollados para la generación de MTDs, incluyendo métodos de interpolación, triangulación y segmentación. No obstante, estos métodos enfrentan desafíos significativos cuando se aplican a nubes de puntos de alta densidad. La capacidad de clasificar correctamente estos puntos es crucial para mantener la precisión del modelo final. Las redes neuronales han mostrado un gran potencial en tareas de clasificación y pueden ofrecer una solución prometedora para este problema.
+El MDT se genera a partir de la clasificación de una nube de puntos en 2D creados a partir de datos Lidar, una tecnología de teledetección que utiliza rayos láser para medir distancias y movimientos precisos en tiempo real. La precisión del MDT depende de varios factores, incluidos los datos, los algoritmos y los parámetros elegidos, así como la naturaleza del terreno. Esta herramienta es esencial para la planificación y ejecución de proyectos de ingeniería civil, la construcción de infraestructuras y el diseño de sistemas de drenaje \cite{MDT-tecnica}.
+\espacio
 
-\subsection{Problematica}
-El desafío principal es desarrollar un algoritmo que pueda clasificar eficientemente una nube de puntos con alta densidad sin sacrificar la precisión. La alta densidad de puntos presenta dificultades tanto en términos de procesamiento como de exactitud, ya que los algoritmos existentes a menudo no pueden manejar el volumen de datos sin comprometer su desempeño.
+En el ámbito de la gestión de desastres naturales, un MDT permite predecir con mayor exactitud las áreas que podrían verse afectadas por inundaciones, deslizamientos de tierra u otros eventos catastróficos, mejorando así las estrategias de mitigación y respuesta. En la planificación urbana, el modelo es usado como ayuda para optimizar el uso del suelo y a prevenir problemas futuros relacionados con la topografía del terreno.
+\espacio
+
+Como se puede ver, los MDT son bastantes útiles e importantes, es por esto que la precisión es crusial al trabajar con estos modelos. Un estudio de daños por inundaciones realizado por investigadores del "Journal of Flood Risk Management" \cite{MDT-tecnica} mostró diferencias de hasta un 180\% en los resultados dependiendo de cómo se generaba el Modelo Difital del Terreno. 
+De aquí podemos rescatar el riesgo existente y el gran salto entre posibles resultados obtenidos al no tener un MDT que represente correctamente al mundo físico. Una consecuencia real de usar estos modelos erróneos es la toma de decisiones deficiente, llegando a ser contraproducente e invalidando el punto de generar un MDT en primer lugar.
+\espacio
+
+Desarrollar esta área de la topografía puede reducir significativamente el margen de error, aumentando la confianza en los resultados obtenidos a partir del modelo y eliminando la incertidumbre en casos críticos. Mejorar la precisión de los MDT no solo incrementará la exactitud de las predicciones y análisis, sino que también permitirá tomar decisiones más informadas en diversas disciplinas, incluyendo la planificación urbana, la agricultura de precisión, la gestión de recursos naturales y la respuesta a emergencias.
+\espacio
+
+Dado que la precisión de los MDT depende la metodología y algoritmos, la complejidad del objetivo y las características de los datos \cite{MDT-densidad}, una estrategia para mejorar estos modelos es enfocarse en una de estas áreas y mejorar el alcance actual. Académicos del "European Journal of Remote Sensing" se dedicaron a comparar los distintos algortimos del momento en casi 100 modelos de terreno con alta densidad de puntos, llegando a que todos obtienen resultados bastante similares \cite{MDT-algoritmos}. Lo interesante de los algoritmos presentados en el estudio es la ausencia de algún método que implemente las redes neuronales. 
+\espacio
+
+Las redes neuronales (RN) son sistemas de aprendizaje automático inspirados en la estructura y funcionamiento del cerebro humano \cite{NN-definition}. La importancia de las redes neuronales se encuentra en su capacidad para abordar problemas que son difíciles de resolver usando medios 
+tradicionales, como el reconocimiento de imágenes, el procesamiento del lenguaje natural y la predicción de series temporales \cite{NN-impact}. En los próximos años podemos esperar nada menos que el acoplamiento de las RN en más campos de los que uno esperaría, desde módulos de percepción y pilotos automáticos \cite{NN-ex1} hasta la incorporación de las RN en interpretación y reportes médicos \cite{NN-ex2}.
+\espacio
+
+Recientemente, se está desarrollando este recurso (Machine Learning) en el campo de nube de puntos, ya sea para complementar al MDT en casos como la detección de crecimiento de árboles \cite{MDT-arbol} o directamente para una fusión multiespectral y Lidar para una clasificación de puntos \cite{MTD-RF}. En este contexto, las redes neuronales se presentan como una herramienta prometedora para la clasificación de puntos en nubes de datos Lidar, junto a la generación de un Modelo Digital del Terreno que refleje fielmente el mundo real \cite{NN-Lidar}. Con su capacidad para aprender y adaptarse a patrones complejos en los datos, son ideales para mejorar la exactitud y eficiencia en la generación de modelos. Es por esto que en este trabajo se va a buscar implementar a las redes neuronales para generar un nuevo algoritmo capaz de clasificar una nube de puntos Lidar a partir de datos extraídos de la ciudad de Guayaquil, Ecuador.
+\espacio
+
+Con el uso de estas tecnologías avanzadas, se puede anticipar un futuro en el que los MDT sean herramientas aún más poderosas y precisas, transformando la manera en que interactuamos con nuestro entorno físico. Pero hablando de periodos de tiempo mas cercanos, el uso de redes neuronales en esta área puede dejar un precedente en el uso de gemelos digitales \footnote{Modelo que busca la representación virtual de un objeto} en lugares urbanos como lo es Guayaquil.
 
