@@ -1,0 +1,711 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Topografia}{article}{}
+      \name{author}{1}{}{%
+        {{hash=030b8d19e8bd1490a941219881c06e16}{%
+           family={LA\bibnamedelima CARRETERA\bibnamedelima CALAMARCA-SANTIAGO},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim C\bibinithyphendelim S\bibinitperiod},
+           given={DE\bibnamedelima LLALLAGUA},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{030b8d19e8bd1490a941219881c06e16}
+      \strng{fullhash}{030b8d19e8bd1490a941219881c06e16}
+      \strng{bibnamehash}{030b8d19e8bd1490a941219881c06e16}
+      \strng{authorbibnamehash}{030b8d19e8bd1490a941219881c06e16}
+      \strng{authornamehash}{030b8d19e8bd1490a941219881c06e16}
+      \strng{authorfullhash}{030b8d19e8bd1490a941219881c06e16}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{FACULTAD DE TECNOLOGÍA GEODESIA, TOPOGRAFÍA Y GEOMATICA}
+    \endentry
+    \entry{Topografia-def2}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7df7f0dcb8210a3b60822379c56d071b}{%
+           family={Markoski},
+           familyi={M\bibinitperiod},
+           given={Blagoja},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7df7f0dcb8210a3b60822379c56d071b}{%
+           family={Markoski},
+           familyi={M\bibinitperiod},
+           given={Blagoja},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{df4ad9a3505df08ff1fd614501a7b8c9}
+      \strng{fullhash}{df4ad9a3505df08ff1fd614501a7b8c9}
+      \strng{bibnamehash}{df4ad9a3505df08ff1fd614501a7b8c9}
+      \strng{authorbibnamehash}{df4ad9a3505df08ff1fd614501a7b8c9}
+      \strng{authornamehash}{df4ad9a3505df08ff1fd614501a7b8c9}
+      \strng{authorfullhash}{df4ad9a3505df08ff1fd614501a7b8c9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Basic principles of topography}
+      \field{year}{2018}
+    \endentry
+    \entry{MDT-aplicacion}{article}{}
+      \name{author}{1}{}{%
+        {{hash=44a493d1edeedebb4b353d616965f1a3}{%
+           family={Felicísimo},
+           familyi={F\bibinitperiod},
+           given={Angel\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{44a493d1edeedebb4b353d616965f1a3}
+      \strng{fullhash}{44a493d1edeedebb4b353d616965f1a3}
+      \strng{bibnamehash}{44a493d1edeedebb4b353d616965f1a3}
+      \strng{authorbibnamehash}{44a493d1edeedebb4b353d616965f1a3}
+      \strng{authornamehash}{44a493d1edeedebb4b353d616965f1a3}
+      \strng{authorfullhash}{44a493d1edeedebb4b353d616965f1a3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modelos Digitales del Terreno}
+      \field{pages}{1\bibrangedash 3}
+      \range{pages}{3}
+      \verb{doi}
+      \verb https://www.thedigitalmap.com/EasyDEM/ayuda/html/documentos/libroMDTFelicisimo.pdf
+      \endverb
+      \keyw{Modelo Digital del Terreno}
+    \endentry
+    \entry{GIS-definicion}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7ee6c057b42369a016bab7f17683e6f9}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Nishant},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3c1fd309789b33cc32c2757b87cd67af}{%
+           family={Katiyar},
+           familyi={K\bibinitperiod},
+           given={Sunil\bibnamedelima Kumar},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1ef77a942db2258c08373b1377e0efa}
+      \strng{fullhash}{e1ef77a942db2258c08373b1377e0efa}
+      \strng{bibnamehash}{e1ef77a942db2258c08373b1377e0efa}
+      \strng{authorbibnamehash}{e1ef77a942db2258c08373b1377e0efa}
+      \strng{authornamehash}{e1ef77a942db2258c08373b1377e0efa}
+      \strng{authorfullhash}{e1ef77a942db2258c08373b1377e0efa}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1574-9541}
+      \field{journaltitle}{Ecological Informatics}
+      \field{title}{Application of geographical information system (GIS) in reducing accident blackspots and in planning of a safer urban road network: A review}
+      \field{volume}{66}
+      \field{year}{2021}
+      \field{pages}{101436}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ecoinf.2021.101436
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1574954121002272
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1574954121002272
+      \endverb
+      \keyw{Road safety,GIS,Blackspot,Road accidents,Planning,Road network}
+    \endentry
+    \entry{MDT-effects}{article}{}
+      \name{author}{2}{}{%
+        {{hash=365efa86fea731e491d96320d6242f3c}{%
+           family={Arrighi},
+           familyi={A\bibinitperiod},
+           given={Chiara},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6d55272176c80b7ccbcd90e2c24497c9}{%
+           family={Campo},
+           familyi={C\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{afd1cf9495418626d5e8541a5746574b}
+      \strng{fullhash}{afd1cf9495418626d5e8541a5746574b}
+      \strng{bibnamehash}{afd1cf9495418626d5e8541a5746574b}
+      \strng{authorbibnamehash}{afd1cf9495418626d5e8541a5746574b}
+      \strng{authornamehash}{afd1cf9495418626d5e8541a5746574b}
+      \strng{authorfullhash}{afd1cf9495418626d5e8541a5746574b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Flood Risk Management}
+      \field{number}{S2}
+      \field{title}{Effects of digital terrain model uncertainties on high-resolution urban flood damage assessment}
+      \field{volume}{12}
+      \field{year}{2019}
+      \field{pages}{e12530}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb https://doi.org/10.1111/jfr3.12530
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1111/jfr3.12530
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jfr3.12530
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jfr3.12530
+      \endverb
+      \keyw{DTM,flood risk,interpolation methods,LiDAR,sensitivity}
+    \endentry
+    \entry{MDT-tecnica}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b9d73bff249264ed2ae76c84cb50caeb}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Mahmoud\bibnamedelimb El\bibnamedelimb Nokrashy\bibnamedelima O.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=d973be0f48b9f39bc22c3d6c82cea321}{%
+           family={Taha},
+           familyi={T\bibinitperiod},
+           given={Lamyaa\bibnamedelimb Gamal\bibnamedelima EL-Deen},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim E\bibinithyphendelim D\bibinitperiod}}}%
+        {{hash=1974bba997b4599503920aec9b6e28ef}{%
+           family={Mohamed},
+           familyi={M\bibinitperiod},
+           given={Mostafa\bibnamedelima H.A.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=698506720ba6b7e4f833b1d25bb777f0}{%
+           family={Mandouh},
+           familyi={M\bibinitperiod},
+           given={Asmaa\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5564dffde318cdb031903d36ac5a8231}
+      \strng{fullhash}{4521596a7e0cbe293b9ffa931fde49a9}
+      \strng{bibnamehash}{5564dffde318cdb031903d36ac5a8231}
+      \strng{authorbibnamehash}{5564dffde318cdb031903d36ac5a8231}
+      \strng{authornamehash}{5564dffde318cdb031903d36ac5a8231}
+      \strng{authorfullhash}{4521596a7e0cbe293b9ffa931fde49a9}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1110-9823}
+      \field{journaltitle}{The Egyptian Journal of Remote Sensing and Space Science}
+      \field{number}{2}
+      \field{title}{Generation of digital terrain model from multispectral LiDar using different ground filtering techniques}
+      \field{volume}{24}
+      \field{year}{2021}
+      \field{pages}{181\bibrangedash 189}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ejrs.2020.12.004
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1110982320303525
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1110982320303525
+      \endverb
+      \keyw{LiDAR,Multispectral LiDAR,Multi-wavelength ALS,Filtering,DTM,ALDPAT}
+    \endentry
+    \entry{MDT-densidad}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fbe0fa7baefeee2b8e6e8b83b3c8d498}{%
+           family={J.\bibnamedelimi Estornell},
+           familyi={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={B.\bibnamedelimi Velázquez-Martí},
+           giveni={B\bibinitperiod\bibinitdelim V\bibinithyphendelim M\bibinitperiod},
+           suffix={L.A.\bibnamedelimi Ruiz},
+           suffixi={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=30188a308a700e6b6ecf7b1a44b27924}{%
+           family={Hermosilla},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{07dbff140c711e62a499a13440cd194b}
+      \strng{fullhash}{07dbff140c711e62a499a13440cd194b}
+      \strng{bibnamehash}{07dbff140c711e62a499a13440cd194b}
+      \strng{authorbibnamehash}{07dbff140c711e62a499a13440cd194b}
+      \strng{authornamehash}{07dbff140c711e62a499a13440cd194b}
+      \strng{authorfullhash}{07dbff140c711e62a499a13440cd194b}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Digital Earth}
+      \field{number}{6}
+      \field{title}{Analysis of the factors affecting LiDAR DTM accuracy in a steep shrub area}
+      \field{volume}{4}
+      \field{year}{2011}
+      \field{pages}{521\bibrangedash 538}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1080/17538947.2010.533201
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/17538947.2010.533201
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/17538947.2010.533201
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/17538947.2010.533201
+      \endverb
+    \endentry
+    \entry{MDT-algoritmos}{article}{}
+      \name{author}{2}{}{%
+        {{hash=86d789e6e07febde231f744d6465521d}{%
+           family={Krzysztof\bibnamedelima Stereńczak},
+           familyi={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Radomir\bibnamedelima Balazy},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           suffix={Mariusz\bibnamedelima Ciesielski},
+           suffixi={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=554548cc1301185c341c4461325e65de}{%
+           family={Zawiła-Niedźwiecki},
+           familyi={Z\bibinithyphendelim N\bibinitperiod},
+           given={Tomasz},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{89edb5a9e490cb5937fee599658349c0}
+      \strng{fullhash}{89edb5a9e490cb5937fee599658349c0}
+      \strng{bibnamehash}{89edb5a9e490cb5937fee599658349c0}
+      \strng{authorbibnamehash}{89edb5a9e490cb5937fee599658349c0}
+      \strng{authornamehash}{89edb5a9e490cb5937fee599658349c0}
+      \strng{authorfullhash}{89edb5a9e490cb5937fee599658349c0}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Remote Sensing}
+      \field{number}{1}
+      \field{title}{Comparison of various algorithms for DTM interpolation from LIDAR data in dense mountain forests}
+      \field{volume}{49}
+      \field{year}{2016}
+      \field{pages}{599\bibrangedash 621}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.5721/EuJRS20164932
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.5721/EuJRS20164932
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5721/EuJRS20164932
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5721/EuJRS20164932
+      \endverb
+    \endentry
+    \entry{NN-definition}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5fd79101950d60c82fe4d9f0111f6e91}{%
+           family={Gurney},
+           familyi={G\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC press}%
+      }
+      \strng{namehash}{5fd79101950d60c82fe4d9f0111f6e91}
+      \strng{fullhash}{5fd79101950d60c82fe4d9f0111f6e91}
+      \strng{bibnamehash}{5fd79101950d60c82fe4d9f0111f6e91}
+      \strng{authorbibnamehash}{5fd79101950d60c82fe4d9f0111f6e91}
+      \strng{authornamehash}{5fd79101950d60c82fe4d9f0111f6e91}
+      \strng{authorfullhash}{5fd79101950d60c82fe4d9f0111f6e91}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An introduction to neural networks}
+      \field{year}{2018}
+    \endentry
+    \entry{NN-impact}{article}{}
+      \name{author}{10}{}{%
+        {{hash=7ba5f3f51633b9ea61428ede65546835}{%
+           family={Alzubaidi},
+           familyi={A\bibinitperiod},
+           given={Laith},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9e634e39ca3d0570af8fb4bb054dbfbb}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jinglan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=aa0e6b4c6338c591aa8f264e4f63050b}{%
+           family={Humaidi},
+           familyi={H\bibinitperiod},
+           given={Amjad\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8ffe1cb854b86e6fbaa6d3e55e548614}{%
+           family={Al-dujaili},
+           familyi={A\bibinithyphendelim d\bibinitperiod},
+           given={Ayad},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0f158de2e6d958dd5335e8a44c09321b}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Ye},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2fbc3d640343f76a0db1760f6b14bf4a}{%
+           family={Al-Shamma},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Omran},
+           giveni={O\bibinitperiod}}}%
+        {{hash=79dba48765555a3f9e8eeee4da472b83}{%
+           family={Santamaría},
+           familyi={S\bibinitperiod},
+           given={José\bibnamedelima I.},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=baf6b6c44a6b414c1b46346280e31fc3}{%
+           family={Fadhel},
+           familyi={F\bibinitperiod},
+           given={Mohammed\bibnamedelima Abdulraheem},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c69aff305e1c1f0ec4bbd30897839fea}{%
+           family={Al-Amidie},
+           familyi={A\bibinithyphendelim A\bibinitperiod},
+           given={Muthana},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f727bd771fc42188f40b804cbc8567f6}{%
+           family={Farhan},
+           familyi={F\bibinitperiod},
+           given={Laith},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{95f161e24bede10fe79c7d428fbe0d25}
+      \strng{fullhash}{0338a251fe91ea6e4543ba4e14a92e02}
+      \strng{bibnamehash}{95f161e24bede10fe79c7d428fbe0d25}
+      \strng{authorbibnamehash}{95f161e24bede10fe79c7d428fbe0d25}
+      \strng{authornamehash}{95f161e24bede10fe79c7d428fbe0d25}
+      \strng{authorfullhash}{0338a251fe91ea6e4543ba4e14a92e02}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Big Data}
+      \field{title}{Review of deep learning: concepts, CNN architectures, challenges, applications, future directions}
+      \field{volume}{8}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:232434552
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:232434552
+      \endverb
+    \endentry
+    \entry{NN-ex1}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=47d588fab147e39ea657fc07192df353}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Xiaowei},
+           giveni={X\bibinitperiod}}}%
+        {{hash=e96e14c940cd49f1c4e8c1f38f89a321}{%
+           family={Kwiatkowska},
+           familyi={K\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=99de65e5476005b6deb7b87170202067}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Sen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=95b6d28f9dd62176f72f62fc7c148126}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Min},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=78643650cab303170e95fbd8ac71e624}{%
+           family={Majumdar},
+           familyi={M\bibinitperiod},
+           given={Rupak},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d4b16e30bb52c701d627c16d4420303e}{%
+           family={Kunčak},
+           familyi={K\bibinitperiod},
+           given={Viktor},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{4c3a0db9dd4624b298c51906c5d265b0}
+      \strng{fullhash}{c723e02d9911256c20913862eef9d60b}
+      \strng{bibnamehash}{4c3a0db9dd4624b298c51906c5d265b0}
+      \strng{authorbibnamehash}{4c3a0db9dd4624b298c51906c5d265b0}
+      \strng{authornamehash}{4c3a0db9dd4624b298c51906c5d265b0}
+      \strng{authorfullhash}{c723e02d9911256c20913862eef9d60b}
+      \strng{editorbibnamehash}{1294669d211510fde0e4f8263a86b1ec}
+      \strng{editornamehash}{1294669d211510fde0e4f8263a86b1ec}
+      \strng{editorfullhash}{1294669d211510fde0e4f8263a86b1ec}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Deep neural networks have achieved impressive experimental results in image classification, but can surprisingly be unstable with respect to adversarial perturbations, that is, minimal changes to the input image that cause the network to misclassify it. With potential applications including perception modules and end-to-end controllers for self-driving cars, this raises concerns about their safety. We develop a novel automated verification framework for feed-forward multi-layer neural networks based on Satisfiability Modulo Theory (SMT). We focus on safety of image classification decisions with respect to image manipulations, such as scratches or changes to camera angle or lighting conditions that would result in the same class being assigned by a human, and define safety for an individual decision in terms of invariance of the classification within a small neighbourhood of the original image. We enable exhaustive search of the region by employing discretisation, and propagate the analysis layer by layer. Our method works directly with the network code and, in contrast to existing methods, can guarantee that adversarial examples, if they exist, are found for the given region and family of manipulations. If found, adversarial examples can be shown to human testers and/or used to fine-tune the network. We implement the techniques using Z3 and evaluate them on state-of-the-art networks, including regularised and deep learning networks. We also compare against existing techniques to search for adversarial examples and estimate network robustness.}
+      \field{booktitle}{Computer Aided Verification}
+      \field{isbn}{978-3-319-63387-9}
+      \field{title}{Safety Verification of Deep Neural Networks}
+      \field{year}{2017}
+      \field{pages}{3\bibrangedash 29}
+      \range{pages}{27}
+    \endentry
+    \entry{NN-ex2}{article}{}
+      \name{author}{5}{}{%
+        {{hash=52437d68a5bc3d9ed0be08538b91793b}{%
+           family={Negassi},
+           familyi={N\bibinitperiod},
+           given={Misgana},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e77374f9c19691f7551495ad37d08878}{%
+           family={Suarez-Ibarrola},
+           familyi={S\bibinithyphendelim I\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5d1b15e11d15cbe7ffeeddb71769d1b1}{%
+           family={Hein},
+           familyi={H\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=097b013dda05a4143ad8cfb3752a1d96}{%
+           family={Miernik},
+           familyi={M\bibinitperiod},
+           given={Arkadiusz},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8b0041e647904b0f42fbc254be2cf769}{%
+           family={Reiterer},
+           familyi={R\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{def8bf323d189f3354a058d61af2dc5e}
+      \strng{fullhash}{684e5561b3364281da2a61522bb27831}
+      \strng{bibnamehash}{def8bf323d189f3354a058d61af2dc5e}
+      \strng{authorbibnamehash}{def8bf323d189f3354a058d61af2dc5e}
+      \strng{authornamehash}{def8bf323d189f3354a058d61af2dc5e}
+      \strng{authorfullhash}{684e5561b3364281da2a61522bb27831}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World Journal of Urology}
+      \field{month}{10}
+      \field{title}{Application of artificial neural networks for automated analysis of cystoscopic images: a review of the current status and future prospects}
+      \field{volume}{38}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1007/s00345-019-03059-0
+      \endverb
+    \endentry
+    \entry{MDT-arbol}{article}{}
+      \name{author}{8}{}{%
+        {{hash=540f600b028b28885fcc15195cd47211}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Zhenbang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=fafe8047d44e9f1f09a5e613a3064e00}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Lili},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b3c4eff5d3a76ae4fe8bf58fa58a30cc}{%
+           family={Post},
+           familyi={P\bibinitperiod},
+           given={Christopher\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5bcfa435e61e6c2b8b433a53c2884537}{%
+           family={Mikhailova},
+           familyi={M\bibinitperiod},
+           given={Elena\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=13af9768d9e6479f3ac9abc5fb1045ee}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Minghui},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b6f25c2ea695f4385f6acab832194dfc}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=89f70f73c115e06265222e00d11b7920}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Kunyong},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fd903bc507de58459375d974764ab4ea}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{d150cb648a8ea3145d1884433e720ba4}
+      \strng{fullhash}{8bd1b86287578dbb12d43d5d5e0f7d23}
+      \strng{bibnamehash}{d150cb648a8ea3145d1884433e720ba4}
+      \strng{authorbibnamehash}{d150cb648a8ea3145d1884433e720ba4}
+      \strng{authornamehash}{d150cb648a8ea3145d1884433e720ba4}
+      \strng{authorfullhash}{8bd1b86287578dbb12d43d5d5e0f7d23}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0924-2716}
+      \field{journaltitle}{ISPRS Journal of Photogrammetry and Remote Sensing}
+      \field{title}{Automated tree-crown and height detection in a young forest plantation using mask region-based convolutional neural network (Mask R-CNN)}
+      \field{volume}{178}
+      \field{year}{2021}
+      \field{pages}{112\bibrangedash 123}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.isprsjprs.2021.06.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0924271621001611
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0924271621001611
+      \endverb
+      \keyw{Deep learning,Instance segmentation,Tree-crown delineation,Tree height,UAV imagery,Plantation forest}
+    \endentry
+    \entry{MTD-RF}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f473ff9e89e6272efdd5d9493e269999}{%
+           family={Van\bibnamedelima Alphen},
+           familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=86c994217b2d489386789d87a3a15517}{%
+           family={Rains},
+           familyi={R\bibinitperiod},
+           given={Kai\bibnamedelima C.},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=daf5a4543cc6e0fe86b6c5d6df50cf3f}{%
+           family={Rodgers},
+           familyi={R\bibinitperiod},
+           given={Mel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=959163ae126ab869b90ea6572edc19a2}{%
+           family={Malservisi},
+           familyi={M\bibinitperiod},
+           given={Rocco},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a3dcf4d13eea05ee51958a2d02e58c39}{%
+           family={Dixon},
+           familyi={D\bibinitperiod},
+           given={Timothy\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{d016d538dd3dc81ac979fb5874b5de70}
+      \strng{fullhash}{dbc6575b66d713e554bc0d9842b1892e}
+      \strng{bibnamehash}{d016d538dd3dc81ac979fb5874b5de70}
+      \strng{authorbibnamehash}{d016d538dd3dc81ac979fb5874b5de70}
+      \strng{authornamehash}{d016d538dd3dc81ac979fb5874b5de70}
+      \strng{authorfullhash}{dbc6575b66d713e554bc0d9842b1892e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As sea levels rise and temperatures increase, vegetation communities in tropical and sub-tropical coastal areas will be stressed; some will migrate northward and inland. The transition from coastal marshes and scrub–shrubs to woody mangroves is a fundamental change to coastal community structure and species composition. However, this transition will likely be episodic, complicating monitoring efforts, as mangrove advances are countered by dieback from increasingly impactful storms. Coastal habitat monitoring has traditionally been conducted through satellite and ground-based surveys. Here we investigate the use of UAV-LiDAR (unoccupied aerial vehicle–light detection and ranging) and multispectral photogrammetry to study a Florida coastal wetland. These data have higher resolution than satellite-derived data and are cheaper and faster to collect compared to crewed aircraft or ground surveys. We detected significant canopy change in the period between our survey (2020–2022) and a previous survey (2015), including loss at the scale of individual buttonwood trees (Conocarpus erectus), a woody mangrove associate. The UAV-derived data were collected to investigate the utility of simplified processing and data inputs for habitat classification and were validated with standard metrics and additional ground truth. UAV surveys combined with machine learning can streamline coastal habitat monitoring, facilitating repeat surveys to assess the effects of climate change and other change agents.}
+      \field{issn}{2504-446X}
+      \field{journaltitle}{Drones}
+      \field{number}{3}
+      \field{title}{UAV-Based Wetland Monitoring: Multispectral and Lidar Fusion with Random Forest Classification}
+      \field{volume}{8}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.3390/drones8030113
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2504-446X/8/3/113
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2504-446X/8/3/113
+      \endverb
+    \endentry
+    \entry{NN-Lidar}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9ee2c2c5b36c03a34138f2c09c09f580}{%
+           family={Diab},
+           familyi={D\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2fc7f15eca2473d7e4756d7d98bededf}{%
+           family={Kashef},
+           familyi={K\bibinitperiod},
+           given={Rasha},
+           giveni={R\bibinitperiod}}}%
+        {{hash=05b0334c122071c5e850efaa2b6d81fe}{%
+           family={Shaker},
+           familyi={S\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{98bbea2680d278f5f4fc573e5c1cf24d}
+      \strng{fullhash}{98bbea2680d278f5f4fc573e5c1cf24d}
+      \strng{bibnamehash}{98bbea2680d278f5f4fc573e5c1cf24d}
+      \strng{authorbibnamehash}{98bbea2680d278f5f4fc573e5c1cf24d}
+      \strng{authornamehash}{98bbea2680d278f5f4fc573e5c1cf24d}
+      \strng{authorfullhash}{98bbea2680d278f5f4fc573e5c1cf24d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Point clouds are one of the most widely used data formats produced by depth sensors. There is a lot of research into feature extraction from unordered and irregular point cloud data. Deep learning in computer vision achieves great performance for data classification and segmentation of 3D data points as point clouds. Various research has been conducted on point clouds and remote sensing tasks using deep learning (DL) methods. However, there is a research gap in providing a road map of existing work, including limitations and challenges. This paper focuses on introducing the state-of-the-art DL models, categorized by the structure of the data they consume. The models’ performance is collected, and results are provided for benchmarking on the most used datasets. Additionally, we summarize the current benchmark 3D datasets publicly available for DL training and testing. In our comparative study, we can conclude that convolutional neural networks (CNNs) achieve the best performance in various remote-sensing applications while being light-weighted models, namely Dynamic Graph CNN (DGCNN) and ConvPoint.}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors}
+      \field{number}{20}
+      \field{title}{Deep Learning for LiDAR Point Cloud Classification in Remote Sensing}
+      \field{volume}{22}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3390/s22207868
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/22/20/7868
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/22/20/7868
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
